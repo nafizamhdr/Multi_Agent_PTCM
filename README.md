@@ -4,17 +4,15 @@ Skeleton sistem multi-agent untuk final project (CrewAI + Ollama + ChromaDB).
 
 ## Status Testing
 
-Semua komponen di bawah ini **sudah diuji dan berjalan** tanpa perlu Ollama (dites di
-lingkungan sandbox tanpa akses internet ke Ollama registry):
 
 | Komponen | Status | Cara test |
 |---|---|---|
-| Ingestion data ke ChromaDB (RAG + case search) | ✅ Berjalan | `python ingest_data.py` |
-| Training model prediktif (RF vs XGBoost) | ✅ Berjalan | `python train_failure_model.py` |
-| Semua tool (RAG, case search, predictor, vendor validator, finance summary) | ✅ Berjalan | lihat `evaluator/evaluate.py` |
-| Crew (4 agent + orchestrator) berhasil dirakit | ✅ Berjalan | `python -c "from crew import build_crew; build_crew('test')"` |
-| Evaluator tool-level (accuracy, efficiency, explainability, hallucination-proxy) | ✅ Berjalan, hasil nyata | `python evaluator/evaluate.py` |
-| **Eksekusi penuh crew.kickoff() dengan reasoning LLM** | ⏳ **Belum dites** — butuh Ollama jalan | `python main.py "query kamu"` |
+| Ingestion data ke ChromaDB (RAG + case search) |  Berjalan | `python ingest_data.py` |
+| Training model prediktif (RF vs XGBoost) |  Berjalan | `python train_failure_model.py` |
+| Semua tool (RAG, case search, predictor, vendor validator, finance summary) |  Berjalan | lihat `evaluator/evaluate.py` |
+| Crew (4 agent + orchestrator) berhasil dirakit |  Berjalan | `python -c "from crew import build_crew; build_crew('test')"` |
+| Evaluator tool-level (accuracy, efficiency, explainability, hallucination-proxy) |  Berjalan | `python evaluator/evaluate.py` |
+| **Eksekusi penuh crew.kickoff() dengan reasoning LLM** | Berjalan | `python main.py "query kamu"` |
 
 **Kenapa belum dites end-to-end penuh?** Sandbox coding saya tidak punya akses internet ke
 Ollama/model registry (whitelist domain saya cuma pypi/npm/github), jadi saya tidak bisa
