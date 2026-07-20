@@ -1,0 +1,10 @@
+crewai
+chromadb
+scikit-learn
+xgboost
+joblib
+python-dotenv
+pandas
+
+# Opsional (butuh resource lebih besar / internet):
+# sentence-transformers>=3.0.0   # embedding lebih baik daripada TF-IDF, aktifkan kalau resource cukup

@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Vector Database
+chroma_db/
+
+# Machine Learning Models
+models/*.joblib
+models/*.pkl
+models/*.h5
+models/*.pt
+
+# IDE / OS Files
+.vscode/
+.idea/
+.DS_Store
