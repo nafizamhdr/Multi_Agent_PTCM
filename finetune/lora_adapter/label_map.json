@@ -1,0 +1,14 @@
+{
+  "label2id": {
+    "eskalasi_kritikal": 0,
+    "keterlambatan_pengiriman": 1,
+    "produk_cacat": 2,
+    "retur_barang": 3
+  },
+  "id2label": {
+    "0": "eskalasi_kritikal",
+    "1": "keterlambatan_pengiriman",
+    "2": "produk_cacat",
+    "3": "retur_barang"
+  }
+}

@@ -1,0 +1,61 @@
+case_id,machine_id,failure_type,tanggal,catatan_teknisi,downtime_jam,biaya_perbaikan_idr,teknisi
+MTC-0001,CNC-01,Tool Wear Failure,2025-09-01,"Mata pahat aus setelah 230 menit pemakaian, hasil potong tidak presisi (toleransi meleset 0.3mm). Tindakan: ganti tool holder dan lakukan kalibrasi ulang.",5.5,1130109,Eko
+MTC-0002,CNC-02,Heat Dissipation Failure,2025-09-04,"Suhu proses naik drastis mendekati suhu udara sekitar, kecepatan rotasi turun di bawah 1400 rpm. Tindakan: bersihkan sirip pendingin dan cek pompa coolant.",5.3,1966644,Budi
+MTC-0003,CONV-01,Power Failure,2025-09-07,Motor conveyor mati mendadak saat beban puncak shift 2. Tindakan: cek breaker panel dan ganti kapasitor motor.,2.9,806480,Eko
+MTC-0004,CNC-03,Overstrain Failure,2025-09-10,"Torsi melebihi ambang batas saat memotong material baja tebal, motor spindle overload. Tindakan: turunkan feed rate dan cek beban material.",5.3,1874625,Andi
+MTC-0005,PRESS-01,Random Failure,2025-09-13,"Berhenti tiba-tiba tanpa pola sensor yang jelas, diduga fluktuasi tegangan listrik pabrik. Tindakan: pasang stabilizer tambahan.",1.9,349864,Dewi
+MTC-0006,CONV-02,Tool Wear Failure,2025-09-16,Belt conveyor aus dan slip pada roller penggerak. Tindakan: ganti belt dan lumasi bearing roller.,2.9,1146902,Andi
+MTC-0007,CNC-01,Heat Dissipation Failure,2025-09-19,Overheat berulang pada spindle setelah operasi kontinu 8 jam tanpa jeda pendinginan. Tindakan: terapkan jadwal cooling break setiap 4 jam.,4.3,1118582,Andi
+MTC-0008,CNC-02,Tool Wear Failure,2025-09-22,"Permukaan hasil produksi kasar, indikasi mata bor tumpul. Tindakan: rotasi stok tool dan sharpening.",2.8,517697,Budi
+MTC-0009,CNC-01,Tool Wear Failure,2025-09-25,"Mata pahat aus setelah 230 menit pemakaian, hasil potong tidak presisi (toleransi meleset 0.3mm). Tindakan: ganti tool holder dan lakukan kalibrasi ulang.",3.2,1057250,Dewi
+MTC-0010,CNC-02,Heat Dissipation Failure,2025-09-28,"Suhu proses naik drastis mendekati suhu udara sekitar, kecepatan rotasi turun di bawah 1400 rpm. Tindakan: bersihkan sirip pendingin dan cek pompa coolant.",5.8,2404360,Eko
+MTC-0011,CONV-01,Power Failure,2025-10-01,Motor conveyor mati mendadak saat beban puncak shift 2. Tindakan: cek breaker panel dan ganti kapasitor motor.,2.8,506752,Citra
+MTC-0012,CNC-03,Overstrain Failure,2025-10-04,"Torsi melebihi ambang batas saat memotong material baja tebal, motor spindle overload. Tindakan: turunkan feed rate dan cek beban material.",5.3,1492754,Eko
+MTC-0013,PRESS-01,Random Failure,2025-10-07,"Berhenti tiba-tiba tanpa pola sensor yang jelas, diduga fluktuasi tegangan listrik pabrik. Tindakan: pasang stabilizer tambahan.",1.0,480314,Dewi
+MTC-0014,CONV-02,Tool Wear Failure,2025-10-10,Belt conveyor aus dan slip pada roller penggerak. Tindakan: ganti belt dan lumasi bearing roller.,2.4,1020195,Budi
+MTC-0015,CNC-01,Heat Dissipation Failure,2025-10-13,Overheat berulang pada spindle setelah operasi kontinu 8 jam tanpa jeda pendinginan. Tindakan: terapkan jadwal cooling break setiap 4 jam.,3.6,773507,Budi
+MTC-0016,CNC-02,Tool Wear Failure,2025-10-16,"Permukaan hasil produksi kasar, indikasi mata bor tumpul. Tindakan: rotasi stok tool dan sharpening.",2.6,594114,Budi
+MTC-0017,CNC-01,Tool Wear Failure,2025-10-19,"Mata pahat aus setelah 230 menit pemakaian, hasil potong tidak presisi (toleransi meleset 0.3mm). Tindakan: ganti tool holder dan lakukan kalibrasi ulang.",4.8,1087074,Citra
+MTC-0018,CNC-02,Heat Dissipation Failure,2025-10-22,"Suhu proses naik drastis mendekati suhu udara sekitar, kecepatan rotasi turun di bawah 1400 rpm. Tindakan: bersihkan sirip pendingin dan cek pompa coolant.",7.4,2111383,Dewi
+MTC-0019,CONV-01,Power Failure,2025-10-25,Motor conveyor mati mendadak saat beban puncak shift 2. Tindakan: cek breaker panel dan ganti kapasitor motor.,2.6,623493,Eko
+MTC-0020,CNC-03,Overstrain Failure,2025-10-28,"Torsi melebihi ambang batas saat memotong material baja tebal, motor spindle overload. Tindakan: turunkan feed rate dan cek beban material.",5.7,1671309,Eko
+MTC-0021,PRESS-01,Random Failure,2025-10-31,"Berhenti tiba-tiba tanpa pola sensor yang jelas, diduga fluktuasi tegangan listrik pabrik. Tindakan: pasang stabilizer tambahan.",2.7,531809,Eko
+MTC-0022,CONV-02,Tool Wear Failure,2025-11-03,Belt conveyor aus dan slip pada roller penggerak. Tindakan: ganti belt dan lumasi bearing roller.,3.3,971226,Dewi
+MTC-0023,CNC-01,Heat Dissipation Failure,2025-11-06,Overheat berulang pada spindle setelah operasi kontinu 8 jam tanpa jeda pendinginan. Tindakan: terapkan jadwal cooling break setiap 4 jam.,4.5,1399019,Citra
+MTC-0024,CNC-02,Tool Wear Failure,2025-11-09,"Permukaan hasil produksi kasar, indikasi mata bor tumpul. Tindakan: rotasi stok tool dan sharpening.",2.4,778962,Dewi
+MTC-0025,CNC-01,Tool Wear Failure,2025-11-12,"Mata pahat aus setelah 230 menit pemakaian, hasil potong tidak presisi (toleransi meleset 0.3mm). Tindakan: ganti tool holder dan lakukan kalibrasi ulang.",4.6,1385358,Andi
+MTC-0026,CNC-02,Heat Dissipation Failure,2025-11-15,"Suhu proses naik drastis mendekati suhu udara sekitar, kecepatan rotasi turun di bawah 1400 rpm. Tindakan: bersihkan sirip pendingin dan cek pompa coolant.",7.0,1967072,Budi
+MTC-0027,CONV-01,Power Failure,2025-11-18,Motor conveyor mati mendadak saat beban puncak shift 2. Tindakan: cek breaker panel dan ganti kapasitor motor.,2.3,692497,Eko
+MTC-0028,CNC-03,Overstrain Failure,2025-11-21,"Torsi melebihi ambang batas saat memotong material baja tebal, motor spindle overload. Tindakan: turunkan feed rate dan cek beban material.",6.2,1758932,Citra
+MTC-0029,PRESS-01,Random Failure,2025-11-24,"Berhenti tiba-tiba tanpa pola sensor yang jelas, diduga fluktuasi tegangan listrik pabrik. Tindakan: pasang stabilizer tambahan.",0.5,629829,Dewi
+MTC-0030,CONV-02,Tool Wear Failure,2025-11-27,Belt conveyor aus dan slip pada roller penggerak. Tindakan: ganti belt dan lumasi bearing roller.,2.7,948540,Citra
+MTC-0031,CNC-01,Heat Dissipation Failure,2025-11-30,Overheat berulang pada spindle setelah operasi kontinu 8 jam tanpa jeda pendinginan. Tindakan: terapkan jadwal cooling break setiap 4 jam.,3.8,1194545,Eko
+MTC-0032,CNC-02,Tool Wear Failure,2025-12-03,"Permukaan hasil produksi kasar, indikasi mata bor tumpul. Tindakan: rotasi stok tool dan sharpening.",2.3,422023,Eko
+MTC-0033,CNC-01,Tool Wear Failure,2025-12-06,"Mata pahat aus setelah 230 menit pemakaian, hasil potong tidak presisi (toleransi meleset 0.3mm). Tindakan: ganti tool holder dan lakukan kalibrasi ulang.",4.2,1230317,Andi
+MTC-0034,CNC-02,Heat Dissipation Failure,2025-12-09,"Suhu proses naik drastis mendekati suhu udara sekitar, kecepatan rotasi turun di bawah 1400 rpm. Tindakan: bersihkan sirip pendingin dan cek pompa coolant.",5.8,2294532,Dewi
+MTC-0035,CONV-01,Power Failure,2025-12-12,Motor conveyor mati mendadak saat beban puncak shift 2. Tindakan: cek breaker panel dan ganti kapasitor motor.,3.1,1093604,Eko
+MTC-0036,CNC-03,Overstrain Failure,2025-12-15,"Torsi melebihi ambang batas saat memotong material baja tebal, motor spindle overload. Tindakan: turunkan feed rate dan cek beban material.",5.9,1727427,Dewi
+MTC-0037,PRESS-01,Random Failure,2025-12-18,"Berhenti tiba-tiba tanpa pola sensor yang jelas, diduga fluktuasi tegangan listrik pabrik. Tindakan: pasang stabilizer tambahan.",2.7,456821,Andi
+MTC-0038,CONV-02,Tool Wear Failure,2025-12-21,Belt conveyor aus dan slip pada roller penggerak. Tindakan: ganti belt dan lumasi bearing roller.,3.8,875917,Budi
+MTC-0039,CNC-01,Heat Dissipation Failure,2025-12-24,Overheat berulang pada spindle setelah operasi kontinu 8 jam tanpa jeda pendinginan. Tindakan: terapkan jadwal cooling break setiap 4 jam.,4.1,1311154,Budi
+MTC-0040,CNC-02,Tool Wear Failure,2025-12-27,"Permukaan hasil produksi kasar, indikasi mata bor tumpul. Tindakan: rotasi stok tool dan sharpening.",2.8,657094,Andi
+MTC-0041,CNC-01,Tool Wear Failure,2025-12-30,"Mata pahat aus setelah 230 menit pemakaian, hasil potong tidak presisi (toleransi meleset 0.3mm). Tindakan: ganti tool holder dan lakukan kalibrasi ulang.",4.7,977945,Budi
+MTC-0042,CNC-02,Heat Dissipation Failure,2026-01-02,"Suhu proses naik drastis mendekati suhu udara sekitar, kecepatan rotasi turun di bawah 1400 rpm. Tindakan: bersihkan sirip pendingin dan cek pompa coolant.",7.0,2031280,Andi
+MTC-0043,CONV-01,Power Failure,2026-01-05,Motor conveyor mati mendadak saat beban puncak shift 2. Tindakan: cek breaker panel dan ganti kapasitor motor.,2.3,894850,Eko
+MTC-0044,CNC-03,Overstrain Failure,2026-01-08,"Torsi melebihi ambang batas saat memotong material baja tebal, motor spindle overload. Tindakan: turunkan feed rate dan cek beban material.",5.6,1953507,Budi
+MTC-0045,PRESS-01,Random Failure,2026-01-11,"Berhenti tiba-tiba tanpa pola sensor yang jelas, diduga fluktuasi tegangan listrik pabrik. Tindakan: pasang stabilizer tambahan.",2.0,335639,Andi
+MTC-0046,CONV-02,Tool Wear Failure,2026-01-14,Belt conveyor aus dan slip pada roller penggerak. Tindakan: ganti belt dan lumasi bearing roller.,3.6,815547,Andi
+MTC-0047,CNC-01,Heat Dissipation Failure,2026-01-17,Overheat berulang pada spindle setelah operasi kontinu 8 jam tanpa jeda pendinginan. Tindakan: terapkan jadwal cooling break setiap 4 jam.,4.4,1119593,Andi
+MTC-0048,CNC-02,Tool Wear Failure,2026-01-20,"Permukaan hasil produksi kasar, indikasi mata bor tumpul. Tindakan: rotasi stok tool dan sharpening.",2.5,661804,Budi
+MTC-0049,CNC-01,Tool Wear Failure,2026-01-23,"Mata pahat aus setelah 230 menit pemakaian, hasil potong tidak presisi (toleransi meleset 0.3mm). Tindakan: ganti tool holder dan lakukan kalibrasi ulang.",3.8,1087772,Andi
+MTC-0050,CNC-02,Heat Dissipation Failure,2026-01-26,"Suhu proses naik drastis mendekati suhu udara sekitar, kecepatan rotasi turun di bawah 1400 rpm. Tindakan: bersihkan sirip pendingin dan cek pompa coolant.",6.3,2154328,Citra
+MTC-0051,CONV-01,Power Failure,2026-01-29,Motor conveyor mati mendadak saat beban puncak shift 2. Tindakan: cek breaker panel dan ganti kapasitor motor.,2.8,1004927,Budi
+MTC-0052,CNC-03,Overstrain Failure,2026-02-01,"Torsi melebihi ambang batas saat memotong material baja tebal, motor spindle overload. Tindakan: turunkan feed rate dan cek beban material.",5.4,1658071,Dewi
+MTC-0053,PRESS-01,Random Failure,2026-02-04,"Berhenti tiba-tiba tanpa pola sensor yang jelas, diduga fluktuasi tegangan listrik pabrik. Tindakan: pasang stabilizer tambahan.",1.2,418771,Eko
+MTC-0054,CONV-02,Tool Wear Failure,2026-02-07,Belt conveyor aus dan slip pada roller penggerak. Tindakan: ganti belt dan lumasi bearing roller.,4.2,818781,Citra
+MTC-0055,CNC-01,Heat Dissipation Failure,2026-02-10,Overheat berulang pada spindle setelah operasi kontinu 8 jam tanpa jeda pendinginan. Tindakan: terapkan jadwal cooling break setiap 4 jam.,4.9,1159937,Budi
+MTC-0056,CNC-02,Tool Wear Failure,2026-02-13,"Permukaan hasil produksi kasar, indikasi mata bor tumpul. Tindakan: rotasi stok tool dan sharpening.",1.8,522760,Andi
+MTC-0057,CNC-01,Tool Wear Failure,2026-02-16,"Mata pahat aus setelah 230 menit pemakaian, hasil potong tidak presisi (toleransi meleset 0.3mm). Tindakan: ganti tool holder dan lakukan kalibrasi ulang.",5.4,1181816,Eko
+MTC-0058,CNC-02,Heat Dissipation Failure,2026-02-19,"Suhu proses naik drastis mendekati suhu udara sekitar, kecepatan rotasi turun di bawah 1400 rpm. Tindakan: bersihkan sirip pendingin dan cek pompa coolant.",5.8,1869584,Citra
+MTC-0059,CONV-01,Power Failure,2026-02-22,Motor conveyor mati mendadak saat beban puncak shift 2. Tindakan: cek breaker panel dan ganti kapasitor motor.,3.1,654689,Andi
+MTC-0060,CNC-03,Overstrain Failure,2026-02-25,"Torsi melebihi ambang batas saat memotong material baja tebal, motor spindle overload. Tindakan: turunkan feed rate dan cek beban material.",4.6,1863808,Eko

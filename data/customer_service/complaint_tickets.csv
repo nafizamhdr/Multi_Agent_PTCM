@@ -1,0 +1,121 @@
+ticket_id,tanggal,pelanggan,kategori,isi_komplain,waktu_respons_jam,status_resolusi
+TCK-00001,2026-04-01 00:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,"Pesanan PO-18964 belum sampai, sudah lewat 1 hari dari estimasi.",0.6,Eskalasi ke manajemen
+TCK-00002,2026-04-01 05:00:00,PT Adi Perkasa,keterlambatan_pengiriman,"Pesanan PO-24458 belum sampai, sudah lewat 1 hari dari estimasi.",4.7,Dalam proses investigasi
+TCK-00003,2026-04-01 10:00:00,PT Sinar Motor,retur_barang,Kami ingin retur PO-87874 karena salah spesifikasi saat pemesanan.,4.4,Selesai - kompensasi diberikan
+TCK-00004,2026-04-01 15:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,"Pesanan PO-81951 belum sampai, sudah lewat 7 hari dari estimasi.",2.6,Eskalasi ke manajemen
+TCK-00005,2026-04-01 20:00:00,PT Karya Otomotif,produk_cacat,Komponen dari batch B516 datang dengan goresan di permukaan.,7.6,Selesai - unit diganti
+TCK-00006,2026-04-02 01:00:00,PT Jaya Sentosa,retur_barang,Kami ingin retur PO-66754 karena salah spesifikasi saat pemesanan.,3.9,Selesai - unit diganti
+TCK-00007,2026-04-02 06:00:00,PT Adi Perkasa,keterlambatan_pengiriman,"Pesanan PO-27028 belum sampai, sudah lewat 3 hari dari estimasi.",2.3,Selesai - retur diproses
+TCK-00008,2026-04-02 11:00:00,PT Jaya Sentosa,produk_cacat,Beberapa unit dari batch B610 tidak berfungsi saat uji pasang.,6.0,Selesai - unit diganti
+TCK-00009,2026-04-02 16:00:00,PT Sinar Motor,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-51430? Sudah telat 2 hari.,1.2,Selesai - unit diganti
+TCK-00010,2026-04-02 21:00:00,PT Sinar Motor,produk_cacat,Komponen dari batch B519 datang dengan goresan di permukaan.,2.7,Dalam proses investigasi
+TCK-00011,2026-04-03 02:00:00,PT Sinar Motor,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-92980? Sudah telat 7 hari.,3.3,Selesai - unit diganti
+TCK-00012,2026-04-03 07:00:00,PT Karya Otomotif,keterlambatan_pengiriman,"Pesanan PO-47341 belum sampai, sudah lewat 8 hari dari estimasi.",2.1,Eskalasi ke manajemen
+TCK-00013,2026-04-03 12:00:00,PT Karya Otomotif,produk_cacat,Beberapa unit dari batch B842 tidak berfungsi saat uji pasang.,4.2,Selesai - unit diganti
+TCK-00014,2026-04-03 17:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-88614? Sudah telat 6 hari.,2.5,Selesai - kompensasi diberikan
+TCK-00015,2026-04-03 22:00:00,PT Karya Otomotif,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-76127? Sudah telat 8 hari.,3.9,Selesai - kompensasi diberikan
+TCK-00016,2026-04-04 03:00:00,PT Karya Otomotif,produk_cacat,Beberapa unit dari batch B589 tidak berfungsi saat uji pasang.,3.1,Selesai - kompensasi diberikan
+TCK-00017,2026-04-04 08:00:00,PT Adi Perkasa,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-81379? Sudah telat 6 hari.,1.8,Selesai - kompensasi diberikan
+TCK-00018,2026-04-04 13:00:00,PT Adi Perkasa,keterlambatan_pengiriman,"Pesanan PO-40658 belum sampai, sudah lewat 2 hari dari estimasi.",1.6,Selesai - kompensasi diberikan
+TCK-00019,2026-04-04 18:00:00,PT Sinar Motor,keterlambatan_pengiriman,"Pesanan PO-58493 belum sampai, sudah lewat 8 hari dari estimasi.",3.2,Selesai - kompensasi diberikan
+TCK-00020,2026-04-04 23:00:00,PT Adi Perkasa,retur_barang,Kami ingin retur PO-39308 karena salah spesifikasi saat pemesanan.,2.6,Selesai - unit diganti
+TCK-00021,2026-04-05 04:00:00,PT Mitra Suku Cadang,eskalasi_kritikal,"Ini komplain ke-3 kami untuk isu yang sama, kami pertimbangkan hentikan kontrak.",0.3,Selesai - kompensasi diberikan
+TCK-00022,2026-04-05 09:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-79609? Sudah telat 2 hari.,2.7,Selesai - retur diproses
+TCK-00023,2026-04-05 14:00:00,PT Jaya Sentosa,produk_cacat,"Ukuran part pada PO-88880 tidak sesuai spesifikasi, meleset dari toleransi.",5.9,Eskalasi ke manajemen
+TCK-00024,2026-04-05 19:00:00,PT Mitra Suku Cadang,produk_cacat,Komponen dari batch B874 datang dengan goresan di permukaan.,4.8,Selesai - kompensasi diberikan
+TCK-00025,2026-04-06 00:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-13908? Sudah telat 3 hari.,2.5,Selesai - retur diproses
+TCK-00026,2026-04-06 05:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,"Pesanan PO-37869 belum sampai, sudah lewat 1 hari dari estimasi.",0.6,Eskalasi ke manajemen
+TCK-00027,2026-04-06 10:00:00,PT Adi Perkasa,produk_cacat,Komponen dari batch B394 datang dengan goresan di permukaan.,7.4,Selesai - kompensasi diberikan
+TCK-00028,2026-04-06 15:00:00,PT Adi Perkasa,produk_cacat,Beberapa unit dari batch B978 tidak berfungsi saat uji pasang.,1.2,Dalam proses investigasi
+TCK-00029,2026-04-06 20:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,"Pesanan PO-60772 belum sampai, sudah lewat 9 hari dari estimasi.",4.2,Dalam proses investigasi
+TCK-00030,2026-04-07 01:00:00,PT Adi Perkasa,produk_cacat,Beberapa unit dari batch B644 tidak berfungsi saat uji pasang.,2.9,Selesai - unit diganti
+TCK-00031,2026-04-07 06:00:00,PT Sinar Motor,produk_cacat,Komponen dari batch B124 datang dengan goresan di permukaan.,1.3,Selesai - unit diganti
+TCK-00032,2026-04-07 11:00:00,PT Karya Otomotif,keterlambatan_pengiriman,"Pesanan PO-90590 belum sampai, sudah lewat 5 hari dari estimasi.",2.6,Selesai - unit diganti
+TCK-00033,2026-04-07 16:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,"Pesanan PO-14211 belum sampai, sudah lewat 9 hari dari estimasi.",4.1,Selesai - unit diganti
+TCK-00034,2026-04-07 21:00:00,PT Sinar Motor,keterlambatan_pengiriman,"Pesanan PO-40493 belum sampai, sudah lewat 3 hari dari estimasi.",0.7,Eskalasi ke manajemen
+TCK-00035,2026-04-08 02:00:00,PT Sinar Motor,produk_cacat,Komponen dari batch B671 datang dengan goresan di permukaan.,3.4,Selesai - retur diproses
+TCK-00036,2026-04-08 07:00:00,PT Adi Perkasa,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-59966? Sudah telat 2 hari.,5.1,Dalam proses investigasi
+TCK-00037,2026-04-08 12:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-55743? Sudah telat 4 hari.,5.4,Selesai - unit diganti
+TCK-00038,2026-04-08 17:00:00,PT Adi Perkasa,eskalasi_kritikal,"Ini komplain ke-3 kami untuk isu yang sama, kami pertimbangkan hentikan kontrak.",1.5,Selesai - kompensasi diberikan
+TCK-00039,2026-04-08 22:00:00,PT Adi Perkasa,eskalasi_kritikal,"Ini komplain ke-3 kami untuk isu yang sama, kami pertimbangkan hentikan kontrak.",1.9,Selesai - unit diganti
+TCK-00040,2026-04-09 03:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-51745? Sudah telat 4 hari.,2.3,Selesai - unit diganti
+TCK-00041,2026-04-09 08:00:00,PT Adi Perkasa,produk_cacat,"Ukuran part pada PO-14741 tidak sesuai spesifikasi, meleset dari toleransi.",4.1,Selesai - kompensasi diberikan
+TCK-00042,2026-04-09 13:00:00,PT Karya Otomotif,retur_barang,"Mengajukan retur untuk batch B721, kondisi barang tidak sesuai pesanan.",3.1,Selesai - retur diproses
+TCK-00043,2026-04-09 18:00:00,PT Adi Perkasa,eskalasi_kritikal,"Keterlambatan berulang mengganggu produksi kami, butuh solusi permanen.",0.4,Eskalasi ke manajemen
+TCK-00044,2026-04-09 23:00:00,PT Sinar Motor,produk_cacat,Beberapa unit dari batch B762 tidak berfungsi saat uji pasang.,8.0,Eskalasi ke manajemen
+TCK-00045,2026-04-10 04:00:00,PT Jaya Sentosa,produk_cacat,"Ukuran part pada PO-74402 tidak sesuai spesifikasi, meleset dari toleransi.",5.3,Selesai - kompensasi diberikan
+TCK-00046,2026-04-10 09:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,"Pesanan PO-45565 belum sampai, sudah lewat 3 hari dari estimasi.",0.8,Selesai - retur diproses
+TCK-00047,2026-04-10 14:00:00,PT Karya Otomotif,retur_barang,Kami ingin retur PO-28575 karena salah spesifikasi saat pemesanan.,4.4,Selesai - kompensasi diberikan
+TCK-00048,2026-04-10 19:00:00,PT Adi Perkasa,keterlambatan_pengiriman,"Pesanan PO-82649 belum sampai, sudah lewat 4 hari dari estimasi.",5.5,Selesai - kompensasi diberikan
+TCK-00049,2026-04-11 00:00:00,PT Karya Otomotif,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-33828? Sudah telat 1 hari.,1.1,Selesai - kompensasi diberikan
+TCK-00050,2026-04-11 05:00:00,PT Adi Perkasa,produk_cacat,"Ukuran part pada PO-71625 tidak sesuai spesifikasi, meleset dari toleransi.",2.5,Selesai - kompensasi diberikan
+TCK-00051,2026-04-11 10:00:00,PT Adi Perkasa,keterlambatan_pengiriman,"Pesanan PO-20378 belum sampai, sudah lewat 9 hari dari estimasi.",2.8,Eskalasi ke manajemen
+TCK-00052,2026-04-11 15:00:00,PT Mitra Suku Cadang,eskalasi_kritikal,"Keterlambatan berulang mengganggu produksi kami, butuh solusi permanen.",1.6,Selesai - kompensasi diberikan
+TCK-00053,2026-04-11 20:00:00,PT Adi Perkasa,produk_cacat,Beberapa unit dari batch B816 tidak berfungsi saat uji pasang.,7.4,Selesai - unit diganti
+TCK-00054,2026-04-12 01:00:00,PT Mitra Suku Cadang,produk_cacat,Beberapa unit dari batch B278 tidak berfungsi saat uji pasang.,6.5,Selesai - unit diganti
+TCK-00055,2026-04-12 06:00:00,PT Sinar Motor,keterlambatan_pengiriman,"Pesanan PO-70644 belum sampai, sudah lewat 3 hari dari estimasi.",3.2,Eskalasi ke manajemen
+TCK-00056,2026-04-12 11:00:00,PT Sinar Motor,retur_barang,Kami ingin retur PO-71766 karena salah spesifikasi saat pemesanan.,3.0,Selesai - unit diganti
+TCK-00057,2026-04-12 16:00:00,PT Adi Perkasa,retur_barang,"Mengajukan retur untuk batch B510, kondisi barang tidak sesuai pesanan.",2.1,Selesai - retur diproses
+TCK-00058,2026-04-12 21:00:00,PT Mitra Suku Cadang,retur_barang,"Mengajukan retur untuk batch B429, kondisi barang tidak sesuai pesanan.",2.5,Selesai - retur diproses
+TCK-00059,2026-04-13 02:00:00,PT Adi Perkasa,produk_cacat,Komponen dari batch B289 datang dengan goresan di permukaan.,2.9,Selesai - kompensasi diberikan
+TCK-00060,2026-04-13 07:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-37728? Sudah telat 7 hari.,3.8,Selesai - unit diganti
+TCK-00061,2026-04-13 12:00:00,PT Sinar Motor,keterlambatan_pengiriman,"Pesanan PO-35311 belum sampai, sudah lewat 4 hari dari estimasi.",2.9,Selesai - kompensasi diberikan
+TCK-00062,2026-04-13 17:00:00,PT Jaya Sentosa,eskalasi_kritikal,"Keterlambatan berulang mengganggu produksi kami, butuh solusi permanen.",1.2,Selesai - kompensasi diberikan
+TCK-00063,2026-04-13 22:00:00,PT Adi Perkasa,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-17611? Sudah telat 9 hari.,5.9,Selesai - kompensasi diberikan
+TCK-00064,2026-04-14 03:00:00,PT Adi Perkasa,produk_cacat,"Ukuran part pada PO-62416 tidak sesuai spesifikasi, meleset dari toleransi.",4.0,Selesai - kompensasi diberikan
+TCK-00065,2026-04-14 08:00:00,PT Mitra Suku Cadang,retur_barang,Kami ingin retur PO-83624 karena salah spesifikasi saat pemesanan.,4.5,Selesai - retur diproses
+TCK-00066,2026-04-14 13:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,"Pesanan PO-96696 belum sampai, sudah lewat 6 hari dari estimasi.",3.8,Selesai - kompensasi diberikan
+TCK-00067,2026-04-14 18:00:00,PT Mitra Suku Cadang,retur_barang,Kami ingin retur PO-38992 karena salah spesifikasi saat pemesanan.,1.4,Selesai - unit diganti
+TCK-00068,2026-04-14 23:00:00,PT Karya Otomotif,retur_barang,"Mengajukan retur untuk batch B917, kondisi barang tidak sesuai pesanan.",5.0,Selesai - kompensasi diberikan
+TCK-00069,2026-04-15 04:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-44341? Sudah telat 7 hari.,1.7,Selesai - unit diganti
+TCK-00070,2026-04-15 09:00:00,PT Karya Otomotif,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-24444? Sudah telat 1 hari.,3.3,Selesai - kompensasi diberikan
+TCK-00071,2026-04-15 14:00:00,PT Adi Perkasa,keterlambatan_pengiriman,"Pesanan PO-66733 belum sampai, sudah lewat 7 hari dari estimasi.",3.9,Selesai - unit diganti
+TCK-00072,2026-04-15 19:00:00,PT Sinar Motor,retur_barang,Kami ingin retur PO-94474 karena salah spesifikasi saat pemesanan.,3.2,Selesai - kompensasi diberikan
+TCK-00073,2026-04-16 00:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-15582? Sudah telat 3 hari.,1.3,Selesai - kompensasi diberikan
+TCK-00074,2026-04-16 05:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-30989? Sudah telat 3 hari.,4.9,Selesai - unit diganti
+TCK-00075,2026-04-16 10:00:00,PT Sinar Motor,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-57159? Sudah telat 3 hari.,2.0,Selesai - unit diganti
+TCK-00076,2026-04-16 15:00:00,PT Jaya Sentosa,retur_barang,"Mengajukan retur untuk batch B972, kondisi barang tidak sesuai pesanan.",4.6,Selesai - unit diganti
+TCK-00077,2026-04-16 20:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-56527? Sudah telat 7 hari.,3.0,Selesai - kompensasi diberikan
+TCK-00078,2026-04-17 01:00:00,PT Adi Perkasa,produk_cacat,Beberapa unit dari batch B512 tidak berfungsi saat uji pasang.,3.0,Selesai - kompensasi diberikan
+TCK-00079,2026-04-17 06:00:00,PT Adi Perkasa,eskalasi_kritikal,"Keterlambatan berulang mengganggu produksi kami, butuh solusi permanen.",0.5,Selesai - kompensasi diberikan
+TCK-00080,2026-04-17 11:00:00,PT Adi Perkasa,produk_cacat,Komponen dari batch B762 datang dengan goresan di permukaan.,6.7,Selesai - kompensasi diberikan
+TCK-00081,2026-04-17 16:00:00,PT Mitra Suku Cadang,retur_barang,Kami ingin retur PO-81694 karena salah spesifikasi saat pemesanan.,3.6,Selesai - unit diganti
+TCK-00082,2026-04-17 21:00:00,PT Adi Perkasa,retur_barang,"Mengajukan retur untuk batch B443, kondisi barang tidak sesuai pesanan.",3.3,Selesai - unit diganti
+TCK-00083,2026-04-18 02:00:00,PT Mitra Suku Cadang,produk_cacat,Komponen dari batch B827 datang dengan goresan di permukaan.,2.2,Selesai - unit diganti
+TCK-00084,2026-04-18 07:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,"Pesanan PO-97131 belum sampai, sudah lewat 7 hari dari estimasi.",1.9,Selesai - retur diproses
+TCK-00085,2026-04-18 12:00:00,PT Karya Otomotif,keterlambatan_pengiriman,"Pesanan PO-41983 belum sampai, sudah lewat 8 hari dari estimasi.",3.1,Selesai - retur diproses
+TCK-00086,2026-04-18 17:00:00,PT Karya Otomotif,produk_cacat,Komponen dari batch B871 datang dengan goresan di permukaan.,2.4,Selesai - kompensasi diberikan
+TCK-00087,2026-04-18 22:00:00,PT Adi Perkasa,produk_cacat,Komponen dari batch B437 datang dengan goresan di permukaan.,1.3,Dalam proses investigasi
+TCK-00088,2026-04-19 03:00:00,PT Karya Otomotif,keterlambatan_pengiriman,"Pesanan PO-89904 belum sampai, sudah lewat 3 hari dari estimasi.",5.5,Dalam proses investigasi
+TCK-00089,2026-04-19 08:00:00,PT Mitra Suku Cadang,retur_barang,Kami ingin retur PO-42331 karena salah spesifikasi saat pemesanan.,2.9,Selesai - kompensasi diberikan
+TCK-00090,2026-04-19 13:00:00,PT Jaya Sentosa,produk_cacat,Komponen dari batch B282 datang dengan goresan di permukaan.,7.1,Dalam proses investigasi
+TCK-00091,2026-04-19 18:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,"Pesanan PO-59272 belum sampai, sudah lewat 6 hari dari estimasi.",4.7,Selesai - kompensasi diberikan
+TCK-00092,2026-04-19 23:00:00,PT Sinar Motor,keterlambatan_pengiriman,"Pesanan PO-20644 belum sampai, sudah lewat 4 hari dari estimasi.",0.7,Selesai - retur diproses
+TCK-00093,2026-04-20 04:00:00,PT Jaya Sentosa,produk_cacat,Komponen dari batch B841 datang dengan goresan di permukaan.,7.2,Eskalasi ke manajemen
+TCK-00094,2026-04-20 09:00:00,PT Jaya Sentosa,produk_cacat,"Ukuran part pada PO-97207 tidak sesuai spesifikasi, meleset dari toleransi.",7.3,Selesai - retur diproses
+TCK-00095,2026-04-20 14:00:00,PT Karya Otomotif,produk_cacat,Beberapa unit dari batch B139 tidak berfungsi saat uji pasang.,2.1,Dalam proses investigasi
+TCK-00096,2026-04-20 19:00:00,PT Mitra Suku Cadang,produk_cacat,"Ukuran part pada PO-90370 tidak sesuai spesifikasi, meleset dari toleransi.",3.8,Dalam proses investigasi
+TCK-00097,2026-04-21 00:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,"Pesanan PO-75526 belum sampai, sudah lewat 8 hari dari estimasi.",4.8,Selesai - unit diganti
+TCK-00098,2026-04-21 05:00:00,PT Adi Perkasa,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-63235? Sudah telat 1 hari.,2.0,Dalam proses investigasi
+TCK-00099,2026-04-21 10:00:00,PT Jaya Sentosa,produk_cacat,Beberapa unit dari batch B496 tidak berfungsi saat uji pasang.,1.9,Selesai - kompensasi diberikan
+TCK-00100,2026-04-21 15:00:00,PT Adi Perkasa,retur_barang,Kami ingin retur PO-47979 karena salah spesifikasi saat pemesanan.,3.5,Dalam proses investigasi
+TCK-00101,2026-04-21 20:00:00,PT Karya Otomotif,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-57775? Sudah telat 4 hari.,5.9,Selesai - unit diganti
+TCK-00102,2026-04-22 01:00:00,PT Sinar Motor,produk_cacat,Komponen dari batch B966 datang dengan goresan di permukaan.,7.8,Selesai - kompensasi diberikan
+TCK-00103,2026-04-22 06:00:00,PT Jaya Sentosa,retur_barang,"Mengajukan retur untuk batch B164, kondisi barang tidak sesuai pesanan.",4.4,Selesai - kompensasi diberikan
+TCK-00104,2026-04-22 11:00:00,PT Karya Otomotif,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-46267? Sudah telat 4 hari.,5.9,Eskalasi ke manajemen
+TCK-00105,2026-04-22 16:00:00,PT Sinar Motor,eskalasi_kritikal,"Keterlambatan berulang mengganggu produksi kami, butuh solusi permanen.",0.3,Eskalasi ke manajemen
+TCK-00106,2026-04-22 21:00:00,PT Adi Perkasa,keterlambatan_pengiriman,"Pesanan PO-87790 belum sampai, sudah lewat 8 hari dari estimasi.",3.8,Selesai - unit diganti
+TCK-00107,2026-04-23 02:00:00,PT Mitra Suku Cadang,retur_barang,Kami ingin retur PO-43429 karena salah spesifikasi saat pemesanan.,4.6,Eskalasi ke manajemen
+TCK-00108,2026-04-23 07:00:00,PT Karya Otomotif,keterlambatan_pengiriman,"Pesanan PO-12679 belum sampai, sudah lewat 4 hari dari estimasi.",5.9,Selesai - unit diganti
+TCK-00109,2026-04-23 12:00:00,PT Sinar Motor,keterlambatan_pengiriman,"Pesanan PO-96215 belum sampai, sudah lewat 6 hari dari estimasi.",3.5,Selesai - unit diganti
+TCK-00110,2026-04-23 17:00:00,PT Adi Perkasa,keterlambatan_pengiriman,"Pesanan PO-84538 belum sampai, sudah lewat 8 hari dari estimasi.",4.3,Selesai - kompensasi diberikan
+TCK-00111,2026-04-23 22:00:00,PT Karya Otomotif,retur_barang,Kami ingin retur PO-36128 karena salah spesifikasi saat pemesanan.,3.7,Selesai - unit diganti
+TCK-00112,2026-04-24 03:00:00,PT Karya Otomotif,keterlambatan_pengiriman,"Pesanan PO-58384 belum sampai, sudah lewat 4 hari dari estimasi.",3.1,Eskalasi ke manajemen
+TCK-00113,2026-04-24 08:00:00,PT Karya Otomotif,keterlambatan_pengiriman,Kapan estimasi baru untuk pengiriman PO-23786? Sudah telat 9 hari.,5.8,Selesai - retur diproses
+TCK-00114,2026-04-24 13:00:00,PT Jaya Sentosa,keterlambatan_pengiriman,"Pesanan PO-89764 belum sampai, sudah lewat 6 hari dari estimasi.",5.9,Selesai - kompensasi diberikan
+TCK-00115,2026-04-24 18:00:00,PT Mitra Suku Cadang,keterlambatan_pengiriman,"Pesanan PO-89978 belum sampai, sudah lewat 8 hari dari estimasi.",3.0,Selesai - unit diganti
+TCK-00116,2026-04-24 23:00:00,PT Sinar Motor,retur_barang,Kami ingin retur PO-81998 karena salah spesifikasi saat pemesanan.,3.2,Selesai - kompensasi diberikan
+TCK-00117,2026-04-25 04:00:00,PT Karya Otomotif,eskalasi_kritikal,"Ini komplain ke-3 kami untuk isu yang sama, kami pertimbangkan hentikan kontrak.",1.0,Selesai - unit diganti
+TCK-00118,2026-04-25 09:00:00,PT Adi Perkasa,retur_barang,Kami ingin retur PO-99247 karena salah spesifikasi saat pemesanan.,3.2,Selesai - kompensasi diberikan
+TCK-00119,2026-04-25 14:00:00,PT Karya Otomotif,keterlambatan_pengiriman,"Pesanan PO-71024 belum sampai, sudah lewat 8 hari dari estimasi.",4.1,Selesai - retur diproses
+TCK-00120,2026-04-25 19:00:00,PT Sinar Motor,keterlambatan_pengiriman,"Pesanan PO-82360 belum sampai, sudah lewat 5 hari dari estimasi.",3.1,Selesai - kompensasi diberikan

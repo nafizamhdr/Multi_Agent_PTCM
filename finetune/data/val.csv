@@ -1,0 +1,25 @@
+text,label
+"Pesanan PO-45565 belum sampai, sudah lewat 3 hari dari estimasi.",keterlambatan_pengiriman
+Beberapa unit dari batch B762 tidak berfungsi saat uji pasang.,produk_cacat
+"Pesanan PO-40493 belum sampai, sudah lewat 3 hari dari estimasi.",keterlambatan_pengiriman
+"Mengajukan retur untuk batch B443, kondisi barang tidak sesuai pesanan.",retur_barang
+Kapan estimasi baru untuk pengiriman PO-30989? Sudah telat 3 hari.,keterlambatan_pengiriman
+"Keterlambatan berulang mengganggu produksi kami, butuh solusi permanen.",eskalasi_kritikal
+Kapan estimasi baru untuk pengiriman PO-23786? Sudah telat 9 hari.,keterlambatan_pengiriman
+"Pesanan PO-96215 belum sampai, sudah lewat 6 hari dari estimasi.",keterlambatan_pengiriman
+"Pesanan PO-82649 belum sampai, sudah lewat 4 hari dari estimasi.",keterlambatan_pengiriman
+Beberapa unit dari batch B842 tidak berfungsi saat uji pasang.,produk_cacat
+Kami ingin retur PO-83624 karena salah spesifikasi saat pemesanan.,retur_barang
+"Mengajukan retur untuk batch B972, kondisi barang tidak sesuai pesanan.",retur_barang
+Kapan estimasi baru untuk pengiriman PO-51745? Sudah telat 4 hari.,keterlambatan_pengiriman
+"Pesanan PO-41983 belum sampai, sudah lewat 8 hari dari estimasi.",keterlambatan_pengiriman
+"Ukuran part pada PO-74402 tidak sesuai spesifikasi, meleset dari toleransi.",produk_cacat
+Beberapa unit dari batch B278 tidak berfungsi saat uji pasang.,produk_cacat
+Beberapa unit dari batch B816 tidak berfungsi saat uji pasang.,produk_cacat
+"Pesanan PO-89978 belum sampai, sudah lewat 8 hari dari estimasi.",keterlambatan_pengiriman
+"Pesanan PO-24458 belum sampai, sudah lewat 1 hari dari estimasi.",keterlambatan_pengiriman
+"Pesanan PO-81951 belum sampai, sudah lewat 7 hari dari estimasi.",keterlambatan_pengiriman
+"Pesanan PO-40658 belum sampai, sudah lewat 2 hari dari estimasi.",keterlambatan_pengiriman
+Kami ingin retur PO-99247 karena salah spesifikasi saat pemesanan.,retur_barang
+"Keterlambatan berulang mengganggu produksi kami, butuh solusi permanen.",eskalasi_kritikal
+Komponen dari batch B519 datang dengan goresan di permukaan.,produk_cacat

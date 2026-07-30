@@ -1,0 +1,21 @@
+vendor_id,nama_vendor,kategori,tanggal_onboarding,kelengkapan_dokumen_pct,dokumen_belum_lengkap,status_validasi,skor_risiko
+VND-001,CV Baja Mandiri,Consumable/Sparepart,2026-04-08,100.0,-,Lengkap - Aktif,Sedang
+VND-002,PT Sumber Logam Jaya,Consumable/Sparepart,2025-08-11,67.0,NPWP; Sertifikat ISO 9001,Perlu Klarifikasi,Rendah
+VND-003,CV Karet Nusantara,Jasa & Layanan,2025-10-15,83.0,NDA,Perlu Klarifikasi,Rendah
+VND-004,PT Presisi Teknik,Consumable/Sparepart,2025-11-26,83.0,NPWP,Perlu Klarifikasi,Sedang
+VND-005,CV Cat Industri Utama,Komponen Elektronik,2026-06-11,83.0,NDA,Perlu Klarifikasi,Rendah
+VND-006,PT Komponen Prima,Jasa & Layanan,2025-06-22,67.0,NPWP; Sertifikat ISO 9001,Perlu Klarifikasi,Rendah
+VND-007,CV Alat Berat Sentosa,Consumable/Sparepart,2025-11-28,83.0,Kontrak Kerjasama,Perlu Klarifikasi,Rendah
+VND-008,PT Plastik Rekayasa,Jasa & Layanan,2025-09-19,83.0,SIUP,Perlu Klarifikasi,Rendah
+VND-009,CV Elektronik Otomotif,Bahan Baku Logam,2026-01-28,67.0,Sertifikat ISO 9001; SIUP,Perlu Klarifikasi,Rendah
+VND-010,PT Baut & Mur Sejahtera,Komponen Elektronik,2025-09-07,100.0,-,Lengkap - Aktif,Rendah
+VND-011,CV Kemasan Industri,Bahan Baku Logam,2026-07-04,83.0,Kontrak Kerjasama,Perlu Klarifikasi,Rendah
+VND-012,PT Cor Logam Abadi,Bahan Baku Logam,2025-06-02,83.0,SIUP,Perlu Klarifikasi,Rendah
+VND-013,CV Karoseri Mitra,Consumable/Sparepart,2026-06-01,100.0,-,Lengkap - Aktif,Rendah
+VND-014,PT Bearing Nasional,Consumable/Sparepart,2025-11-07,100.0,-,Lengkap - Aktif,Rendah
+VND-015,CV Selang Hidrolik,Bahan Baku Logam,2026-01-12,50.0,SIUP; Kontrak Kerjasama; NDA,Tertunda - Dokumen Kurang,Rendah
+VND-016,PT Gasket Presisi,Komponen Elektronik,2025-11-22,100.0,-,Lengkap - Aktif,Sedang
+VND-017,CV Wiring Harness Jaya,Jasa & Layanan,2025-07-15,100.0,-,Lengkap - Aktif,Rendah
+VND-018,PT Aluminium Cor,Consumable/Sparepart,2025-07-06,50.0,Sertifikat ISO 9001; Kontrak Kerjasama; NDA,Tertunda - Dokumen Kurang,Rendah
+VND-019,CV Chrome Plating Indo,Komponen Elektronik,2026-03-06,50.0,Kontrak Kerjasama; Sertifikat ISO 9001; NDA,Tertunda - Dokumen Kurang,Rendah
+VND-020,PT Suku Cadang Utama,Bahan Baku Logam,2026-03-03,100.0,-,Lengkap - Aktif,Rendah

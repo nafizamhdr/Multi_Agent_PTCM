@@ -1,0 +1,7 @@
+dokumen,wajib,masa_berlaku_bulan,catatan
+Sertifikat ISO 9001,Ya,36.0,Wajib untuk vendor kategori Bahan Baku Logam dan Komponen Elektronik
+NPWP,Ya,,Wajib untuk semua kategori vendor
+SIUP,Ya,60.0,Wajib untuk semua kategori vendor
+Kontrak Kerjasama,Ya,12.0,"Diperbarui tiap tahun, wajib tanda tangan basah/e-sign resmi"
+NDA,Ya,24.0,Wajib jika vendor mengakses spesifikasi teknis internal
+Sertifikat Halal (jika relevan),Kondisional,24.0,Hanya wajib untuk vendor consumable yang bersentuhan proses tertentu

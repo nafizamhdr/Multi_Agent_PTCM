@@ -1,0 +1,27 @@
+[
+  {
+    "query": "Mesin CNC-01 sering error karena tool wear, berapa estimasi biaya kalau kita tunda perbaikan sampai bulan depan?",
+    "expected_agents": ["maintenance_agent", "finance_agent"],
+    "notes": "Butuh prediksi teknis dari Maintenance Agent, lalu estimasi biaya dari Finance Agent"
+  },
+  {
+    "query": "Ada komplain pelanggan soal keterlambatan karena vendor bahan baku telat kirim, apa langkah kita?",
+    "expected_agents": ["cs_agent", "vendor_agent"],
+    "notes": "Butuh SOP penanganan komplain dari CS Agent + status vendor dari Vendor Agent"
+  },
+  {
+    "query": "Bagaimana SOP penanganan komplain produk cacat?",
+    "expected_agents": ["cs_agent"],
+    "notes": "Single-agent, murni RAG atas SOP"
+  },
+  {
+    "query": "Cek kelengkapan dokumen vendor CV Baja Mandiri",
+    "expected_agents": ["vendor_agent"],
+    "notes": "Single-agent, validasi dokumen"
+  },
+  {
+    "query": "Berikan ringkasan biaya operasional 4 minggu terakhir dan apa penyebab utamanya",
+    "expected_agents": ["finance_agent", "maintenance_agent", "cs_agent"],
+    "notes": "Finance Agent perlu konteks dari Maintenance dan CS untuk menjelaskan penyebab biaya"
+  }
+]

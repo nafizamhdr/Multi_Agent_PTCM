@@ -1,0 +1,18 @@
+crewai>=1.15.0
+litellm>=1.50.0
+chromadb>=1.1.0
+scikit-learn>=1.0.0
+xgboost>=2.0.0
+joblib>=1.4.0
+python-dotenv>=1.0.0
+pandas>=2.2.0
+
+# Fine-tuning (LoRA pada IndoBERT untuk klasifikasi kategori komplain)
+torch>=2.0.0
+transformers>=4.40.0
+peft>=0.10.0
+datasets>=2.18.0
+accelerate>=0.28.0
+
+# Embedding semantik (upgrade dari TF-IDF, lihat EMBEDDING_BACKEND di .env)
+sentence-transformers>=3.0.0
