@@ -1,25 +1,4 @@
-# Multi-Agent System — PT Cipta Manufaktur Nusantara
-
-Sistem multi-agent untuk final project (CrewAI + Ollama + ChromaDB).
-
-## Status Testing
-
-| Komponen | Status | Cara test |
-|---|---|---|
-| Ingestion data ke ChromaDB (RAG + case search) | ✅ Berjalan | `python ingest_data.py` |
-| Training model prediktif (Baseline vs SMOTE, data AI4I2020 asli) | ✅ Berjalan, hasil nyata | `python train_failure_model.py` |
-| Semua tool (RAG, case search, predictor, vendor validator, finance summary, complaint classifier) | ✅ Berjalan | lihat `evaluator/evaluate.py` |
-| Crew (4 agent + orchestrator) berhasil dirakit | ✅ Berjalan | `python -c "from crew import build_crew; build_crew('test')"` |
-| Evaluator tool-level (accuracy, efficiency, explainability, hallucination-proxy, effectiveness) | ✅ Berjalan, hasil nyata | `python evaluator/evaluate.py` |
-| Eksekusi penuh crew.kickoff() dengan reasoning LLM (Ollama) | ⏳ Kode siap, belum tervalidasi live di sandbox ini (Ollama butuh dijalankan lokal, tidak bisa di sandbox coding saya) | `python main.py "query kamu"` — **jalankan di laptop kamu** |
-| Pipeline fine-tuning LoRA (IndoBERT) | ✅ Pipeline terverifikasi lewat smoke test | `python finetune/train_lora.py --smoke-test` |
-| Embedding semantik sentence-transformers (dual-backend + fallback otomatis) | ✅ Pipeline terverifikasi lewat smoke test | `python tools/embedding_smoke_test.py` |
-
-**Kenapa Ollama belum tervalidasi live di sini?** Ollama berjalan sebagai server lokal (`ollama serve`) di komputer masing-masing, bukan API cloud yang bisa diakses dari sandbox coding saya. Semua bagian yang TIDAK butuh LLM (vector DB, model prediktif, tool logic, evaluator tool-level) sudah saya jalankan dan verifikasi hasilnya nyata. Bagian yang butuh Ollama (orchestrator delegation, sintesis jawaban akhir) sudah saya tulis lengkap dan crew berhasil dirakit tanpa error, tapi baru bisa dijalankan penuh (`crew.kickoff()`) di laptop kamu yang sudah punya Ollama + model ter-pull.
-
-**Kenapa Ollama, bukan API cloud (Groq/Gemini)?** Sempat dicoba keduanya, tapi Groq dan Gemini free tier sama-sama kena rate limit saat dipakai berulang untuk testing/demo. Ollama lokal tidak punya batasan rate limit sama sekali (hanya dibatasi kecepatan hardware sendiri), jadi lebih cocok untuk sesi development dan demo yang intensif.
-
-## Cara Menjalankan di Laptop Kamu
+## Cara Menjalankan
 
 ```bash
 # 1. Setup environment
