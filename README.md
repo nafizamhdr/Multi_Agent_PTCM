@@ -73,29 +73,6 @@ multi_agent_ptcm/
 ├── data/                      # dataset (maintenance: AI4I2020 asli; CS/vendor/finance: dummy)
 ├── models/                    # model .joblib hasil training
 └── chroma_db/                 # vector DB (dibuat otomatis oleh ingest_data.py)
-```
-
-## Catatan Penting untuk Laporan
-
-1. **Dataset maintenance sekarang data ASLI** (AI4I 2020, UCI), bukan sintetis lagi.
-   Distribusi kegagalan sangat imbalanced (~3,4% failure rate) -- realistis untuk data
-   dunia nyata. `train_failure_model.py` membandingkan baseline vs SMOTE secara eksplisit;
-   SMOTE menaikkan F1-macro (0,592 -> 0,611) dengan trade-off presisi turun pada kelas
-   minoritas, dinamika yang wajar dibahas di laporan.
-
-2. **LLM backend**: Ollama lokal (`llama3.1`). Sempat dicoba Groq dan Gemini (API cloud
-   gratis) tapi keduanya kena rate limit saat dipakai testing berulang -- Ollama dipilih
-   final karena jalan lokal tanpa batasan rate limit, meski perlu resource laptop sendiri
-   dan sedikit lebih lambat/kurang stabil untuk function-calling dibanding model besar
-   cloud (lihat temuan bug di laporan Bab V).
-
-3. **Fine-tuning classifier komplain**: LoRA pada IndoBERT, sudah diverifikasi lewat
-   `python finetune/train_lora.py --smoke-test`. Untuk model asli, jalankan tanpa flag
-   tersebut (butuh akses internet ke HuggingFace Hub saat pertama kali).
-
-4. **Hierarchical process CrewAI**: manager (orchestrator) di-generate otomatis oleh
-   framework berdasarkan `manager_llm`. Kalau butuh kontrol routing yang lebih eksplisit,
-   pertimbangkan custom manager agent untuk versi lanjutan.
 
 5. **Bukti interaksi antar-agent**: lihat `evaluator/test_queries.json` — ada query yang
    butuh >1 agent (misal Maintenance → Finance). Ini yang perlu didemokan ke dosen sebagai
